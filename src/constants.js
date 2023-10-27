@@ -1,5 +1,6 @@
 export const COLORS = {
   primary: 'hsl(240deg 80% 60%)',
+  primaryTransparent: 'hsl(240deg 80% 60% / 0)',
   gray50: 'hsl(0deg 0% 95%)',
   gray300: 'hsl(0deg 0% 75%)',
   gray500: 'hsl(0deg 0% 50%)',
